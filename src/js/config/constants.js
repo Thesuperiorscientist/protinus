@@ -1,0 +1,6 @@
+export const CONFIG = {
+  EXAMPLES: ['1TUP', '6VSB', '4INS', '1MBO', '1A3N', '1GFL', '1CRN', '5XEJ'],
+  DEFAULT_BACKGROUND: '#071017',
+  DEFAULT_REPRESENTATION: 'cartoon',
+  DEFAULT_COLOR_SCHEME: 'chainid'
+};
